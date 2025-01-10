@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 
 [CustomEditor(typeof(InspectorNote))]
-public class ImportantNoteEditor : Editor
+public class InspectorNoteEditor : Editor
 {
     public override void OnInspectorGUI()
     {
